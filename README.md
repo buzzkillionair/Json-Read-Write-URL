@@ -1,2 +1,8 @@
 # Json-Read-Write-URL
-WIll read a json from online and then write the URL's to a file
+Will read a json from online and then write the URL's to a file
+
+# Required
+Nothing required outside the standar libraries
+
+# Output
+A file named "white_list.txt" that contains url data from websites.
