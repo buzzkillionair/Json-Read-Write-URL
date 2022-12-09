@@ -1,6 +1,6 @@
 import json
 from urllib.request import urlopen
-#Author: Sean Mackenzie
+#Author: Buzzkillionair
 #Date Completed: September 25, 2019
 #Job: Parses through the fresh onions website json and take all urls,
 #then writes them to a file.
